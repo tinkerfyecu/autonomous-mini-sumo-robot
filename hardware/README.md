@@ -15,7 +15,7 @@ This project integrates an ESP32 microcontroller, a TB6612FNG motor driver, and 
 | TCRT5000 | 1 | Arena boundary detection |
 | Battery System | 1 | Electrical power supply |
 
-## Motor Driver Connections
+## Motor Driver Connections 
 
 | TB6612FNG | ESP32 GPIO |
 | --- | --- |
